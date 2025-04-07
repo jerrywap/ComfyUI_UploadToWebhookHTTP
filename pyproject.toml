@@ -10,6 +10,6 @@ Repository = "https://github.com/jerrywap/ComfyUI_UploadToWebhookHTTP"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "jerrywap"
 DisplayName = "ComfyUI_UploadToWebhookHTTP"
 Icon = ""
