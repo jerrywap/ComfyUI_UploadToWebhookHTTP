@@ -12,4 +12,4 @@ Repository = "https://github.com/jerrywap/ComfyUI_UploadToWebhookHTTP"
 [tool.comfy]
 PublisherId = "jerrywap"
 DisplayName = "ComfyUI_UploadToWebhookHTTP"
-Icon = ""
+Icon = "https://jerrychukwudi.co.uk/favicon.ico"
