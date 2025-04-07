@@ -1,0 +1,15 @@
+[project]
+name = "uploadtowebhookhttp"
+description = "Send generated images or videos to any HTTP webhook with optional parameters such as prompt-id and metadata payload."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["numpy", "requests", "Pillow", "moviepy"]
+
+[project.urls]
+Repository = "https://github.com/jerrywap/ComfyUI_UploadToWebhookHTTP"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "jerrywap"
+DisplayName = "ComfyUI_UploadToWebhookHTTP"
+Icon = ""
