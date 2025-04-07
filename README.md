@@ -1,5 +1,8 @@
 # ComfyUI_UploadToWebHook
-## @jerrywap
+
+[![GitHub stars](https://img.shields.io/github/stars/jerrywap/ComfyUI_UploadToWebHookHTTP?style=social)](https://github.com/jerrywap/ComfyUI_UploadToWebhookHTTP/stargazers)
+
+
 
 ![ComfyUI Node](screenshot.png)
 
